@@ -31,7 +31,7 @@ function Projects() {
     {
       image: "/project2.jpeg",
       projectName: "Airbnb Clone",
-      projectLink: "https://github.com/vitorfarias001/next-airbnbm",
+      projectLink: "https://github.com/devvitorfarias/next-airbnbm",
       projectDescription:
         "This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.",
       projectTech: [
