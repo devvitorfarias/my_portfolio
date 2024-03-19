@@ -8,7 +8,7 @@ import { motion } from "framer-motion";
 
 function SocialIcons() {
   const socialLinks = [
-    { name: "Github", icon: <FiGithub />, link: "https://github.com/devvitorfarias },
+    { name: "Github", icon: <FiGithub />, link: "https://github.com/devvitorfarias"},
     {
       name: "LinkedIn",
       icon: <FiLinkedin />,
