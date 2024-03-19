@@ -36,7 +36,7 @@ function Experience() {
     },
     {
       name: "Avanti ",
-      role: "Internship",
+      role: "React Internship",
       url: "https://penseavanti.com.br/ecommerce/",
       start: "May 2021",
       end: "July 2021",
@@ -47,7 +47,7 @@ function Experience() {
     },
     {
       name: "M3",
-      role: "Front End Engineer",
+      role: "React Developer",
       url: "https://m3ecommerce.com/",
       start: "August 2021",
       end: "November 2021",
@@ -57,7 +57,7 @@ function Experience() {
     },
     {
       name: "LaModa",
-      role: "Senior Developer",
+      role: "React Developer",
       url: "https://lamoda.com.br/en/",
       start: "March 2022",
       end: "November 2022",
@@ -70,6 +70,19 @@ function Experience() {
         "Teamwork new features",
         "End-to-end action on failures, incidents and problems of systems and portals Network",
         "I work in code review and support in the definition of day-to-day processes"
+      ],
+    },
+    {
+      name: "ClickSoft",
+      role: "React  Developer",
+      url: "https://www.corebiz.ag/en/",
+      start: "July 2023",
+      end: "Present",
+      shortDescription: [
+        "Maintenance of app e-commerce websites using React Native",
+        "Creation and maintenance of templates on the React Native",
+        "Development of pages and integrations with native and third-party API's & Prismic",
+        "Creation of pages and components using React Native",
       ],
     },
   ];
