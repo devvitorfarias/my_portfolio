@@ -73,8 +73,8 @@ function Experience() {
       ],
     },
     {
-      name: "ClickSoft",
-      role: "React  Developer",
+      name: "CoreBiz",
+      role: "React Native Developer",
       url: "https://www.corebiz.ag/en/",
       start: "July 2023",
       end: "Present",
