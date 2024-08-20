@@ -44,11 +44,10 @@ function About() {
             broad domain and knowledge in technologies:
           </p>
           <ul className="about-grid-info-list">
-            <li className="about-grid-info-list-item">Next </li>
-            <li className="about-grid-info-list-item">React </li>
-            <li className="about-grid-info-list-item">Vue </li>
-            <li className="about-grid-info-list-item">React Native</li>
-            <li className="about-grid-info-list-item">Flutter</li>
+            <li className="about-grid-info-list-item">Java </li>
+            <li className="about-grid-info-list-item">Spring </li>
+            <li className="about-grid-info-list-item">AWS </li>
+            <li className="about-grid-info-list-item">Kotlin</li>
             <li className="about-grid-info-list-item">Node.js</li>
           </ul>
         </div>
