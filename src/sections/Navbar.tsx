@@ -120,7 +120,6 @@ function Navbar() {
               delay: 0.6,
             }}
           >
-            <Button text="Resume" link="https://devvitorfarias.vercel.app//resume.pdf" />
           </motion.div>
         </div>
       </div>
