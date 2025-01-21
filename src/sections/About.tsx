@@ -28,20 +28,18 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Build ecommerce sites , maintenance and consulting and mobile applications
+          Crie sites de comércio eletrônico, manutenção e consultoria e aplicativos móveis
           </p>
           <p className="about-grid-info-text">
-            Fast-forward to today, I specialize in designing and developing
-            high-quality solutions that delight our clients and exceed their
-            expectations{" "}
+            Avançando até hoje, sou especializado em projetar e desenvolver
+            soluções de alta qualidade que encantam nossos clientes e superam seus
+            expectativas{" "}
           </p>
           <p className="about-grid-info-text">
-            Additionally, I share my knowledge and passion with the world
-            through my porfolio and github where I demonstrate how to build
-            full-stack applications.
+          Além disso, compartilho meu conhecimento e paixão com o mundo por meio de meu portfólio e github, onde demonstro como construir aplicativos full-stack.
           </p>
           <p className="about-grid-info-text">
-            broad domain and knowledge in technologies:
+          Amplo domínio e conhecimento em tecnologias:          
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">Java </li>
@@ -49,6 +47,13 @@ function About() {
             <li className="about-grid-info-list-item">AWS </li>
             <li className="about-grid-info-list-item">Kotlin</li>
             <li className="about-grid-info-list-item">Node.js</li>
+            <li className="about-grid-info-list-item">React</li>
+            <li className="about-grid-info-list-item">Angular</li>
+            <li className="about-grid-info-list-item">React Native</li>
+            <li className="about-grid-info-list-item">Docker</li>
+            <li className="about-grid-info-list-item">MongoDB</li>
+            <li className="about-grid-info-list-item">SELENIUM</li>
+
           </ul>
         </div>
         <div className="about-grid-photo">

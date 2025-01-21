@@ -14,7 +14,7 @@ function Hero() {
           delay: 0.6,
         }}
       >
-        Hi my name is
+        Ola me chamo 
       </motion.h1>
       <motion.h2
         className="hero-title-large"
@@ -49,9 +49,9 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I&apos;m a Front End Developer ,  with expertise in creating top-notch
-        ecommerce experiences. My current focus is on developing websites ecommerces or projects mobile ,  that are
-        accessible and centered around user needs, as part of the team&nbsp;
+        Sou &apos; um Desenvolvedor Full Stack com expertise em criar experiências de e-commerce de alto nível. 
+        Meu foco atual está no desenvolvimento de websites, e-commerces ou projetos mobile que sejam acessíveis 
+        e centrados nas necessidades dos usuários, como parte da equipe;
       </motion.p>
       <motion.div
         className="hero-button"

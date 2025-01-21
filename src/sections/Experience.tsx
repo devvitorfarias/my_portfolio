@@ -120,7 +120,7 @@ function Experience() {
         " • Desenvolvimento e manutenção de sistemas robustos e escaláveis para uma instituição financeira, utilizando Java como principal linguagem de backend e AWS para infraestrutura em nuvem ",
         " • Implementação de microsserviços e workflows complexos, com orquestração utilizando AWS Step Functions e Lambda para automação de processos críticos de negócio ",
         " • Gestão de banco de dados NoSQL com DynamoDB e relacional com RDS e Aurora (Transacional), otimizando  performance e garantindo a consistência dos dados transacionais",
-        " • CrConfiguração de ambiente seguro e escalável utilizando ECS para containers, EC2 para instâncias computacionais,e integração com VPC para segmentação de rede.",
+        " • Configuração de ambiente seguro e escalável utilizando ECS para containers, EC2 para instâncias computacionais,e integração com VPC para segmentação de rede.",
         " • Implementação de alta disponibilidade e redundância através de Auto Scaling e Elastic Beanstalk para suportar picos de tráfego de forma automatizada. " ,
         " • Utilização de Terraform para provisionamento de infraestrutura como código (IaC), possibilitando  ambiente padronizado e reprodutível para desenvolvimentoe produção.",
         " • Integração de serviços de mensageria e filas com Amazon SQS para processamento assíncrono e desacoplado de eventos críticos", 
