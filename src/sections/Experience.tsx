@@ -143,7 +143,7 @@ function Experience() {
       }}
     >
       <div className="title">
-        <h2>Where I&apos;ve Worked</h2>
+        <h2>Experiência</h2>
       </div>
       <div className="container">
         <ul className="exp-slider">

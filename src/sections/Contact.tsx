@@ -16,10 +16,9 @@ function Contact() {
         hidden: { opacity: 0, y: 0 },
       }}
     >
-      <h2 className="contact-title">What&apos;s Next?</h2>
-      <h2 className="contact-sub-title">Get In Touch</h2>
+      <h2 className="contact-sub-title">Entre em conato</h2>
       <p className="contact-text">
-        For proposals , send me an email , or contact me on linkedin and I'll respond immediately 24/7
+        Para propostas, envie-me um email ou contacte-me no LinkedIn e responderei imediatamente 24 horas por dia, 7 dias por semana.      
       </p>
       <div className="contact-cta">
         <Button link="mailto:contato.vitorfariass@gmail.com" text="Email" />
