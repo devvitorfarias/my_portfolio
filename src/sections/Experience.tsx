@@ -31,10 +31,10 @@ function Experience() {
     },
     {
       name: "ClickSoft",
-      role: "Desenvolvedor Junior Full Stack - Free Lancer",
+      role: "Desenvolvedor Junior Full Stack",
       url: "https://clicksoft.com.br/",
       start: "Março  2021",
-      end: "Abril 2021",
+      end: "Junho 2021",
       shortDescription: [
         " • Desenvolvimento de aplicativos em projetos privados Kotlin",
         " • Desenvolvi APIs RESTful utilizando Spring Boot para expor",
@@ -44,18 +44,7 @@ function Experience() {
       ],
     },
     {
-      name: "Avanti ",
-      role: "Estagio Full Stack",
-      url: "https://penseavanti.com.br/ecommerce/",
-      start: "Maio 2021",
-      end: "Julho 2021",
-      shortDescription: [
-        "Treinamento em desenvolvimento de sites de comércio eletrônico B2B e B2C para grandes empresas nacionais e internacionais.",
-        "Esquadrões, inseridos em metodologias ágeis trabalhando em conjunto com a equipe de design e gerenciamento de projetos",
-      ],
-    },
-    {
-      name: "M3",
+      name: "M3 - Atual Cadastra",
       role: "Desenvolvedor Junior Full Stack",
       url: "https://m3ecommerce.com/",
       start: "Agosto 2021",
@@ -74,7 +63,7 @@ function Experience() {
       role: "Desenvolvedor Senior Full Stack",
       url: "https://lamoda.com.br/en/",
       start: "Março 2022",
-      end: "Novembro 2022",
+      end: "Junho 2023",
       shortDescription: [
         " • Configurei e prestei suporte para desenvolvimento de ações na plataforma VTEX IO ",
         " • Trabalhei em conjunto com tecnologia, e-commerce e parceiros para desenvolvimento back e front end de aplicações ",
