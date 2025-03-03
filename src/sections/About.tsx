@@ -28,7 +28,7 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-          Crie sites de comércio eletrônico, manutenção e consultoria e aplicativos móveis
+          Crio sites de comércio eletrônico, manutenção e consultoria e aplicativos móveis
           </p>
           <p className="about-grid-info-text">
             Avançando até hoje, sou especializado em projetar e desenvolver
