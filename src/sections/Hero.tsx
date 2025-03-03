@@ -49,7 +49,7 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        Sou &apos; um Desenvolvedor Full Stack com expertise em criar experiências de e-commerce de alto nível. 
+        Sou um Desenvolvedor Full Stack com expertise em criar experiências de e-commerce de alto nível. 
         Meu foco atual está no desenvolvimento de websites, e-commerces ou projetos mobile que sejam acessíveis 
         e centrados nas necessidades dos usuários, como parte da equipe;
       </motion.p>
