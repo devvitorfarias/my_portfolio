@@ -104,7 +104,7 @@ function Experience() {
       role: "Desenvolvedor Sênior Java",
       url: "https://assuranceit.com.br/",
       start: "Setembro 2024",
-      end: "Até o momento",
+      end: "Fevereiro 2025",
       shortDescription: [
         " • Desenvolvimento e manutenção de sistemas robustos e escaláveis para uma instituição financeira, utilizando Java como principal linguagem de backend e AWS para infraestrutura em nuvem ",
         " • Implementação de microsserviços e workflows complexos, com orquestração utilizando AWS Step Functions e Lambda para automação de processos críticos de negócio ",
