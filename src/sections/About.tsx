@@ -52,7 +52,9 @@ function About() {
             <li className="about-grid-info-list-item">React Native</li>
             <li className="about-grid-info-list-item">Docker</li>
             <li className="about-grid-info-list-item">MongoDB</li>
-            <li className="about-grid-info-list-item">SELENIUM</li>
+            <li className="about-grid-info-list-item">Selenium</li>
+            <li className="about-grid-info-list-item">Quarkus</li>
+            <li className="about-grid-info-list-item">Liferay</li>
 
           </ul>
         </div>
