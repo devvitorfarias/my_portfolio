@@ -56,6 +56,8 @@ function About() {
             <li className="about-grid-info-list-item">Quarkus</li>
             <li className="about-grid-info-list-item">Liferay</li>
             <li className="about-grid-info-list-item">GCP (Pub/Sub, Storage, Cache, Cloud Run)</li>
+            <li className="about-grid-info-list-item">Django/Python</li>
+
           </ul>
         </div>
         <div className="about-grid-photo">
