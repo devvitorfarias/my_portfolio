@@ -83,7 +83,7 @@ function Experience() {
     {
       name: "CoreBiz",
       role: "Desenvolvedor Pleno Full Stack",
-      url: "https://www.corebiz.ag/en/",
+      url: "https://actdigital.com/pt/",
       start: "Julho 2023",
       end: "Junho 2024",
       shortDescription: [
@@ -100,11 +100,11 @@ function Experience() {
       ],
     },
     {
-      name: "Assurance",
+      name: "ACT DIGITAL",
       role: "Desenvolvedor Sênior Java",
       url: "https://assuranceit.com.br/",
       start: "Setembro 2024",
-      end: "Fevereiro 2025",
+      end: "Nov 2025",
       shortDescription: [
         " • Desenvolvimento e manutenção de sistemas robustos e escaláveis para uma instituição financeira, utilizando Java como principal linguagem de backend e AWS para infraestrutura em nuvem ",
         " • Implementação de microsserviços e workflows complexos, com orquestração utilizando AWS Step Functions e Lambda para automação de processos críticos de negócio ",
